@@ -1,5 +1,7 @@
 ### Hi, 𝐈'𝐦 Murat Selim👋
 
+## [![Github](https://img.shields.io/github/followers/murat-selim?label=Follow&style=social)](https://github.com/murat-selim) [![Github](https://img.shields.io/github/stars/murat-selim?label=Star&style=social)](https://github.com/murat-selim)
+
 ### About Me
 
 - I am learning Sowtvare Developer
