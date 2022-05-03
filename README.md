@@ -4,7 +4,7 @@
 
 ### About Me
 
-- I am learning Sowtvare Developer
+- I am learning Software Developer
 
 ### Links
 
