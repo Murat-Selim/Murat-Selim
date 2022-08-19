@@ -4,7 +4,7 @@
 
 ### About Me
 
-- I am learning Software Developer
+- I am learning Software
 
 ### Links
 
