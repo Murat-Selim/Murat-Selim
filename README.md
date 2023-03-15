@@ -27,11 +27,12 @@ You can contact me
 #### 🧑‍💻 Languages 
 ![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 #### 
 
 #### 📚 Frameworks
+![Spring](https://img.shields.io/badge/Spring-black?&style=flat-square&logo=Spring)
 ![.NET](https://img.shields.io/badge/.NET-black?&style=flat-square&logo=.net)
 ![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
