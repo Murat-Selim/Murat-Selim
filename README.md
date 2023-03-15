@@ -12,7 +12,7 @@ You can contact me
 
 ###### [![Linkedin: Murat Selim](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murat-selim-125680236///)](https://www.linkedin.com/in/murat-selim-125680236//)
 <p>
-  <a href="mailto:muratselim1994@gmail.com">
+###### <a href="mailto:muratselim1994@gmail.com">
 <img alt="E-mail Address" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;">
   </a>
   </p>
@@ -23,14 +23,13 @@ You can contact me
     <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji>
      Technologies &amp; Tools
     </h2>
-    ## 🛠  Technologies and tools
+
 #### 🧑‍💻 Languages 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-#### 
 
 #### 📚 Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring Boot-black?&style=flat-square&logo=Spring Boot)
