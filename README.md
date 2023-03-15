@@ -11,11 +11,11 @@
 You can contact me
 
 ###### [![Linkedin: Murat Selim](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murat-selim-125680236///)](https://www.linkedin.com/in/murat-selim-125680236//)
-
+<p>
   <a href="mailto:muratselim1994@gmail.com">
 <img alt="E-mail Address" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;">
   </a>
-  
+  </p>
   <p>
  
   <h2> 
@@ -23,7 +23,21 @@ You can contact me
     <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji>
      Technologies &amp; Tools
     </h2>
-    
+    ## 🛠  Technologies and tools
+#### 🧑‍💻 Languages 
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+#### 
+
+#### 📚 Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring Boot-black?&style=flat-square&logo=Spring Boot)
+![.NET](https://img.shields.io/badge/.NET-black?&style=flat-square&logo=.net)
+![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width:100%;"></a>
  <img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/C#-E34F26?style=for-the-badge&amp;logo=C#&amp;logoColor=white" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/REACT-1572B6?style=for-the-badge&amp;logo=REACT&amp;logoColor=white" style="max-width:100%;">
