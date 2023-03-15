@@ -25,10 +25,10 @@ You can contact me
     </h2>
 
 #### 🧑‍💻 Languages 
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 #### 
 
 #### 📚 Frameworks
