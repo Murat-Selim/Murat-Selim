@@ -47,7 +47,7 @@ You can contact me
   </p>
   
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokcenaysu&hide=python&layout=compact&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murat-selim&hide=python&layout=compact&show_icons=true&theme=dark">
   </p>
   
   ## 📊 Statistics
