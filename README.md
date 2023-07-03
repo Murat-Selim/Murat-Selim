@@ -29,6 +29,8 @@ You can contact me
 ![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=Solidity)
 #### 
 
 #### 📚 Frameworks
