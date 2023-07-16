@@ -12,11 +12,6 @@
 <a href="https://www.linkedin.com/in/murat-selim-125680236/"><img src="https://img.shields.io/badge/Linkedin-%23E4405F.svg?style=for-the-badge&logo=Linkedin&logoColor=white"><a href=https://medium.com/@muratselim><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </blockquote>
 
-[<img align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" />][mail]
-
-[mail]: mailto:muratselim1994@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
-
-
 <h2> 
     <a id="user-content--technologies--tools" class="anchor" aria-hidden="true" href="#-technologies--tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" 
     version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 
