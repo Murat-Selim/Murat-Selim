@@ -1,47 +1,56 @@
-### Hi, 𝐈'𝐦 Murat Selim👋
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Murat-Selim&label=Profile%20views&color=0e75b6&style=flat" alt="Murat-Selim" /> </p>
 
-## [![Github](https://img.shields.io/github/followers/murat-selim?label=Follow&style=social)](https://github.com/murat-selim) [![Github](https://img.shields.io/github/stars/murat-selim?label=Star&style=social)](https://github.com/murat-selim)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Murat-Selim&theme=" alt="Murat-Selim" /></a> </p>
 
-### About Me
+- 🌱 I’m currently learning **Java, SpringBoot, Javascript, Solidity, Rust**
+- 💬 Ask me about **Javascript, Java, Solidity, Python**
+- 📫 How to reach me **muratselim1994@gmail.com**
+- 📝 I regularly write articles on **https://medium.com/@muratselim**
+- ⚡ Fun fact **I am reading books**
 
--  I’m learning **Java, SpringBoot, Javascript, Solidity, Rust**
+<div> <a href="https://twitter.com/0xCyberCode" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/murat-selim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Murat-Selim" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:muratselim1994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/0xCyberCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="0xCyberCode" height="30" width="40" /></a><a href="https://linkedin.com/in/murat-selim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="murat-selim/" height="30" width="40" /></a><a href="https://medium.com/@muratselim" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@muratselim" height="30" width="40" /></a></p>
 
-#### Contact
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/rust-plain.svg" alt="Rust" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
 
-<blockquote>
-<a href="https://www.linkedin.com/in/murat-selim-125680236/"><img src="https://img.shields.io/badge/Linkedin-%23E4405F.svg?style=for-the-badge&logo=Linkedin&logoColor=white"><a href=https://medium.com/@muratselim><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</blockquote>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murat-Selim&layout=compact&theme=dark" alt=Murat-Selim />
 
-<h2> 
-    <a id="user-content--technologies--tools" class="anchor" aria-hidden="true" href="#-technologies--tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" 
-    version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 
-    0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 
-    001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-    <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji>
-    Technologies &amp; Tools
-</h2>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Murat-Selim&show_icons=true&locale=en&theme=dark" alt="Murat-Selim" /></p>
 
-#### 🧑‍💻 Languages 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=Solidity)
-#### 
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Murat-Selim&theme=dark" alt="Murat-Selim" /></p>
 
-#### 📚 Frameworks
-![Spring](https://img.shields.io/badge/Spring-black?&style=flat-square&logo=Spring)
-![.NET](https://img.shields.io/badge/.NET-black?&style=flat-square&logo=.net)
-![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-
-
-  ## 📊 Statistics
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murat-selim&label=Profile%20views&color=0e75b6&style=flat" alt="murat-selim" /> </p>
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=murat-selim&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murat-selim&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Murat-Selim">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Murat-Selim&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Murat-Selim&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Murat-Selim&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Murat-Selim&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Murat-Selim&theme=algolia" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Murat-Selim&theme=react"/>
