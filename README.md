@@ -26,3 +26,20 @@ My repositories include both application projects and bootcamp exercises. See ea
 [LinkedIn](https://www.linkedin.com/in/murat-selim/) · [Medium](https://medium.com/@muratselim) · [X](https://x.com/0xCyberCode) · [Email](mailto:muratselim1994@gmail.com)
 
 [Browse all repositories](https://github.com/Murat-Selim?tab=repositories)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Murat-Selim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Murat-Selim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Murat-Selim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Activity graph
+
+<p align="center">
+  <a href="https://github.com/Murat-Selim">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Murat-Selim&amp;bg_color=00000000&amp;color=8b949e&amp;title_color=8b949e&amp;line=9b59b6&amp;point=c084fc&amp;area_color=9b59b6&amp;area=true&amp;hide_border=true&amp;grid=false&amp;height=300&amp;days=30&amp;custom_title=Contribution%20activity%20%C2%B7%20last%2030%20days"
+      width="100%"
+      alt="Murat-Selim contribution activity over the last 30 days"
+    >
+  </a>
+</p>
